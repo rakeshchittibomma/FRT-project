@@ -1,11 +1,14 @@
 # ✨ INSURANCE  ✨
 
-This is a web based application developed forInsurance related website in india
+This is a web based application developed for Insurance related website in india
 
 ### This web based financialtech application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - http://teluguhealth.southindia.cloudapp.azure.com/
+*Project Link* - https://ambitious-dune-063f68100.2.azurestaticapps.net
+
+
+*Project demo video link*  -
 
 
 ## Features and Functionalities 😃
@@ -13,8 +16,8 @@ This is a web based application developed forInsurance related website in india
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us,our work,testimonials, Contact,, insurance topics and insurance related information etc.
-- User can know about health information through this website.
+- Has collection of many web pages including Home, About Us,our work,testimonials, Contact,insurance topics and insurance related information etc.
+- User can know about finance information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
@@ -27,21 +30,34 @@ This is a web based application developed forInsurance related website in india
 
 
 ### About us-
+![p2](https://user-images.githubusercontent.com/117899835/207500920-851aa654-54a2-460a-a6fd-30b7cf0d32c5.png)
 
 
-
-   
 
 ### our work-
+ ![p3](https://user-images.githubusercontent.com/117899835/207501749-607a1e08-e2cb-4697-8e65-ff0aabea2d1f.png)
+  
 
 
 
 
 ### Testimonials-
+![p4](https://user-images.githubusercontent.com/117899835/207502335-dc59ce5c-675a-4c58-a3d0-68922756cf55.png)
+
 
 
 
 ### Contact-
+![p5](https://user-images.githubusercontent.com/117899835/207502800-3f56814b-a870-4f7c-9cd7-b537b42eaea8.png)
+
+
+
+
+### Fintechbot  -
+![p6](https://user-images.githubusercontent.com/117899835/207504027-b1e2c887-ffb7-4f11-abb7-f39bf6d93421.png)
+
+
+
 
 
 ## Tech Stack 💻
