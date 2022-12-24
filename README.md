@@ -5,7 +5,7 @@ This is a web based application developed for Insurance related website in india
 ### This web based financialtech application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - https://ambitious-dune-063f68100.2.azurestaticapps.net
+*Project Link* - 
 
 
 *Project demo video link*  -
@@ -16,7 +16,7 @@ This is a web based application developed for Insurance related website in india
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us,our work,testimonials, Contact,insurance topics and insurance related information etc.
+- Has collection of many web pages including Home, About Us,Services,contact,Fintechbot,bank cards topics and bank cards related information etc.
 - User can know about finance information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
@@ -25,43 +25,38 @@ This is a web based application developed for Insurance related website in india
 
 
 ### Home -
-![p1](https://user-images.githubusercontent.com/117899835/207300202-a81a51be-62cf-4ee1-bafa-ab4cd1b3263b.jpg)
+<img width="956" alt="rs1" src="https://user-images.githubusercontent.com/117899835/209424569-805097a4-eac7-4331-bf4d-e54a6e28ee80.png">
 
 
 
 ### About us-
-![p2](https://user-images.githubusercontent.com/117899835/207500920-851aa654-54a2-460a-a6fd-30b7cf0d32c5.png)
+<img width="955" alt="rs2" src="https://user-images.githubusercontent.com/117899835/209424577-2dfebbbc-a3bf-43e0-b299-6a9b22e23305.png">
 
 
 
-### our work-
- ![p3](https://user-images.githubusercontent.com/117899835/207501749-607a1e08-e2cb-4697-8e65-ff0aabea2d1f.png)
-  
-
-
-
-
-### Testimonials-
-![p4](https://user-images.githubusercontent.com/117899835/207502335-dc59ce5c-675a-4c58-a3d0-68922756cf55.png)
-
+### Services-
+<img width="957" alt="rs3" src="https://user-images.githubusercontent.com/117899835/209424585-b34b527a-3d8b-4b20-b2db-b28d42e2a8fd.png"
 
 
 
 ### Contact-
-![p5](https://user-images.githubusercontent.com/117899835/207502800-3f56814b-a870-4f7c-9cd7-b537b42eaea8.png)
-
+<img width="953" alt="rs4" src="https://user-images.githubusercontent.com/117899835/209424616-3496c92e-0fd2-4d40-af17-c0202a45b656.png">
 
 
 
 ### Fintechbot  -
-![p6](https://user-images.githubusercontent.com/117899835/207504027-b1e2c887-ffb7-4f11-abb7-f39bf6d93421.png)
+<img width="960" alt="rs5" src="https://user-images.githubusercontent.com/117899835/209424739-c8f07769-0bad-4d58-815e-a437dae87653.png">
 
 
 
 
 ### Azure health bot -
-![rakesh1](https://user-images.githubusercontent.com/117899835/208430092-0c543c0b-b215-471f-8524-0f15578a43f3.png)
+<img width="960" alt="rs6" src="https://user-images.githubusercontent.com/117899835/209424787-c1993865-9b93-43e5-a869-c6aa9ecdf214.png">
 
+
+
+### Static web apps -
+<img width="960" alt="rs7" src="https://user-images.githubusercontent.com/117899835/209424840-4bb13f94-65cc-4ead-ad92-bd65c98e6d75.png">
 
 
 
