@@ -5,7 +5,7 @@ This is a web based application developed for Bank cards related website in indi
 ### This web based financialtech application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - 
+*Project Link* - https://purple-sea-038710000.2.azurestaticapps.net
 
 
 *Project demo video link*  -
