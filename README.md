@@ -1,6 +1,6 @@
-# ✨ INSURANCE  ✨
+# ✨ BANK CARDS  ✨
 
-This is a web based application developed for Insurance related website in india
+This is a web based application developed for Bank cards related website in india
 
 ### This web based financialtech application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -17,8 +17,8 @@ This is a web based application developed for Insurance related website in india
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About Us,Services,contact,Fintechbot,bank cards topics and bank cards related information etc.
-- User can know about finance information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+- User can know about bank cards information through this website.
+- Included the feedback Survey google form to increase the scope of improvement 
 
 ## Screenshots
 
