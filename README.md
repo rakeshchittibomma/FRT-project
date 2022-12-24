@@ -8,7 +8,7 @@ This is a web based application developed for Bank cards related website in indi
 *Project Link* - https://purple-sea-038710000.2.azurestaticapps.net
 
 
-*Project demo video link*  -
+*Project demo video link*  -  https://youtu.be/-Y9g-Yadoz4
 
 
 ## Features and Functionalities 😃
